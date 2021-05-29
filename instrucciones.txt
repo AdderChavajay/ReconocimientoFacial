@@ -1,0 +1,9 @@
+primero se tiene que ejecutar un entrono virtual o instlar uno es este caso el entorno se llama face y el comando en la que pondemos ejecutar es travez de lineas de conado linux ubuntu
+
+source ./face/bin/activate
+
+y despues la ejecucion de 
+comando -> python main.py
+en donde se generar el name.pikle y data set tomando la foto si escogemos la opcion 1 y el reconocimiento facial en la opcion 2
+
+
